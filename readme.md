@@ -12,7 +12,7 @@ $ npm install --save vk-api-open-methods
 
 ## Usage
 
-The module is basically an instance of JavaScript Array, so...
+The module is basically an instance of JavaScript `Array`, so...
 
 ```js
 var openMethods = require('vk-api-open-methods');
