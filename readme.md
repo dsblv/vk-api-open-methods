@@ -23,6 +23,13 @@ if (openMethods.indexOf(method) !== -1)
 ```
 
 
+## Related
+
+- [vk-api-all-methods](https://github.com/dsblv/vk-api-all-methods) — List of all VK API methods
+- [vk-api-scoped-methods](https://github.com/dsblv/vk-api-scoped-methods) — Hash of VK API methods that require correct scope and scopes they require
+- [vk-api-scopes](https://github.com/dsblv/vk-api-scopes) — Hash of VK API access permission codes
+
+
 ## License
 
 MIT © [Dmitriy Sobolev](http://vk.com/sobo13v)
