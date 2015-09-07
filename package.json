@@ -1,6 +1,6 @@
 {
   "name": "vk-api-open-methods",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of VK API methods that don't require authentication",
   "license": "MIT",
   "repository": "dsblv/vk-api-open-methods",
@@ -16,7 +16,8 @@
     "test": "xo && mocha"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "open-methods.json"
   ],
   "keywords": [
     "vk",
